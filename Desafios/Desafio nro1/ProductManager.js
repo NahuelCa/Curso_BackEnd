@@ -88,7 +88,7 @@ class ProductManager {
   
   existingProduct.addProduct(
     "Producto de ejemplo 2",
-    "Miau",
+    "Esto es un ejemplo",
     1000,
     "Sin imagen",
     "abc124",
@@ -107,7 +107,7 @@ class ProductManager {
 // Agregar un producto con un código que ya está en uso.
     existingProduct.addProduct(
       "Producto de ejemplo 3",
-      "Otro gato",
+      "Esto es un ejemplo",
       10000,
       "Sin imagen",
       "abc123",
