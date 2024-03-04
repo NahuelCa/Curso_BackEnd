@@ -1,5 +1,6 @@
-import express from 'express';
-import ProductManager from './productManager.js';
+const express = require('express');
+const ProductManager = require('./productManager.js');
+
 
 // Importo la dependencia y lo asigno.
 const myProducts = new ProductManager();

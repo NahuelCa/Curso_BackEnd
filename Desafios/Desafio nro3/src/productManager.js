@@ -1,4 +1,5 @@
-import { writeFileSync, promises, readFileSync } from 'fs';
+const { writeFileSync, promises, readFileSync } = require('fs');
+
 
 // Genero clase constructora ProductManager
 class ProductManager {
@@ -108,4 +109,4 @@ class ProductManager {
     }
 }
 
-export default ProductManager;
+module.exports = ProductManager;
