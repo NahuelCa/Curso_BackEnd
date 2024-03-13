@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "title": "1",
+      "description": "ej",
+      "code": "ej001",
+      "price": 1,
+      "status": true,
+      "thumbnails": [],
+      "stock": 1,
+      "category": "ej"
+    },
+
+    {
+      "id": 2,
+      "title": "2",
+      "description": "ej",
+      "code": "ej002",
+      "price": 2,
+      "status": true,
+      "thumbnails": [],
+      "stock": 2,
+      "category": "ej"
+    },
+
+    {
+      "id": 3,
+      "title": "3",
+      "description": "ej",
+      "code": "ej003",
+      "price": 3,
+      "status": true,
+      "thumbnails": [],
+      "stock": 3,
+      "category": "ej"
+    },
+
+    {
+      "id": 4,
+      "title": "4",
+      "description": "ej",
+      "code": "ej004",
+      "price": 4,
+      "status": true,
+      "thumbnails": [],
+      "stock": 4,
+      "category": "ej"
+    },
+
+    {
+      "id": 5,
+      "title": "5",
+      "description": "ej",
+      "code": "ej005",
+      "price": 5,
+      "status": true,
+      "thumbnails": [],
+      "stock": 5,
+      "category": "ej"
+    },
+
+    {
+      "id": 6,
+      "title": "6",
+      "description": "ej",
+      "code": "ej006",
+      "price": 6,
+      "status": true,
+      "thumbnails": [],
+      "stock": 6,
+      "category": "ej"
+    },
+
+    {
+      "id": 7,
+      "title": "7",
+      "description": "ej",
+      "code": "ej007",
+      "price": 7,
+      "status": true,
+      "thumbnails": [],
+      "stock": 7,
+      "category": "ej"
+    },
+
+    {
+      "id": 8,
+      "title": "8",
+      "description": "ej",
+      "code": "ej008",
+      "price": 8,
+      "status": true,
+      "thumbnails": [],
+      "stock": 8,
+      "category": "ej"
+    },
+
+    {
+      "id": 9,
+      "title": "9",
+      "description": "ej",
+      "code": "ej009",
+      "price": 9,
+      "status": true,
+      "thumbnails": [],
+      "stock": 9,
+      "category": "ej"
+    },
+
+    {
+      "id": 10,
+      "title": "10",
+      "description": "ej",
+      "code": "ej010",
+      "price": 10,
+      "status": true,
+      "thumbnails": [],
+      "stock": 10,
+      "category": "ej"
+    }
+  ]
