@@ -454,7 +454,7 @@ form {
 }
 .hero {
   background-image: url("https://imgs.search.brave.com/dw9JPRd3l0qCuRC79CvggwjyGRG_9GoVDvWty8DGGwg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90by1ncmF0aXMv/cG9ydGF0aWwtYm9s/c2FzLWNvbXByYS1j/b25jZXB0by1jb21w/cmFzLWxpbmVhXzE0/MjMtMTkwLmpwZz9z/aXplPTYyNiZleHQ9/anBn");
-  background-size: cover;
+  background-size: contain;
   height: 300px;
   display: flex;
   align-items: center;

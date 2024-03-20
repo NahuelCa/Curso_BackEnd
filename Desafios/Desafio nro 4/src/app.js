@@ -14,6 +14,8 @@ const port = 8080;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
+//pequeño mod para que me lea las imagenes de public, despues ver si se puede mejorar
+app.use("/public", express.static("public"));
 
 // Routes
 app.use("/api/products", productsRouter);
